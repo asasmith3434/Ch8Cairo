@@ -20,7 +20,9 @@ ol{
     text-align:center;
     background-color: #80ced6;
 }
-img { 
-     
+
+img { float: left;
+    width: 600px;
+    height: 600px; 
     border-style: dotted;
 }
